@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/vckyou/GeezProjects"><img src="https://telegra.ph/file/8e256cb133087b060e288.png" alt="Altero project" width=240px></a>
+   <a href="https://github.com/vckyou/GeezProjects">< alt="Altero project" width=240px></a>
    <br>
    <br>
 </p>
@@ -59,6 +59,3 @@ Selamat Menikmati :D
 * [Laky](https://github.com/Laky-64) for [PyTgCalls.](https://github.com/pytgcalls/pytgcalls)
 
 
-### License ⚠️
-[![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
-GeezProjects is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
