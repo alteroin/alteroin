@@ -24,12 +24,6 @@ Selamat Menikmati :D
 | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=dmNreW91L0dlZXpQcm9qZWN0cyBtYXN0ZXI) | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Pionn45/alteroin)
 
 
-### Create String Session
-
-[![Run on Repl.it](https://repl.it/badge/github/jasonalantolbert/replit-badger)](https://repl.it/@vckyou/String)
-
-
-
 ### Tutorial Deploy To VPS
 
 -  ( `git clone https://github.com/vckyou/GeezProjects` )
@@ -55,3 +49,6 @@ Selamat Menikmati :D
 
 
 
+# License
+[![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
+Naya-Userbot is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
