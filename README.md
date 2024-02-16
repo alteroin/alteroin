@@ -53,9 +53,5 @@ Selamat Menikmati :D
 *   [Alvin](https://github.com/Zora24/Lord-geezproject) : Lord-geezproject
 *   [X_ImFine](https://github.com/ximfine) :  XBot-REMIX
 
-### Credits
-* [![TeamGeez](https://img.shields.io/static/v1?label=GeezProjects&message=contributions&color=critical)](https://github.com/vckyou/GeezProjects/graphs/contributors)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
-* [Laky](https://github.com/Laky-64) for [PyTgCalls.](https://github.com/pytgcalls/pytgcalls)
 
 
